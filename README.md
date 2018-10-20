@@ -1,4 +1,4 @@
-#Image Acidifier glitch effect written in Python
+# Image Acidifier glitch effect written in Python
 
 [Kolmogorov Toolbox](https://www.facebook.com/kolmogorovtoolbox/)
 
@@ -8,7 +8,7 @@
 
 Makes some glitchy acidic noise.
 
-##Usage
+## Usage
 
 ```sh
 
